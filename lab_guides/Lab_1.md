@@ -1,10 +1,18 @@
 
-Introduction to Data Wrangling with Python
-=============================================
+Lab 1: Introduction to Data Wrangling with Python
+=================================================
+
+
+#### Pre-reqs:
+- Google Chrome (Recommended)
+
+#### Lab Environment
+Notebooks are ready to run. All packages have been installed. There is no requirement for any setup.
+
+All notebooks are present in `~/work/data-wrangling-python/lab01` folder.
 
 
 Let\'s take a look at a few data structures in Python.
-
 
 Lists, Sets, Strings, Tuples, and Dictionaries
 ==============================================

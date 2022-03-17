@@ -1,10 +1,18 @@
-Introduction to NumPy, Pandas, and Matplotlib
-=============================================
+Lab 3: Introduction to NumPy, Pandas, and Matplotlib
+====================================================
+
+
+#### Pre-reqs:
+- Google Chrome (Recommended)
+
+#### Lab Environment
+Notebooks are ready to run. All packages have been installed. There is no requirement for any setup.
+
+All notebooks are present in `~/work/data-wrangling-python/lab03` folder.
+
 
 Let\'s go through the first exercise in this lab, where we will
 learn how to create a `NumPy` array from a list.
-
-
 
 Exercise 3.01: Creating a NumPy Array (from a List)
 ---------------------------------------------------

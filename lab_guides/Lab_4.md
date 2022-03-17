@@ -1,5 +1,14 @@
-A Deep Dive into Data Wrangling with Python
-===========================================
+Lab 4: A Deep Dive into Data Wrangling with Python
+==================================================
+
+
+#### Pre-reqs:
+- Google Chrome (Recommended)
+
+#### Lab Environment
+Notebooks are ready to run. All packages have been installed. There is no requirement for any setup.
+
+All notebooks are present in `~/work/data-wrangling-python/lab04` folder.
 
 
 Exercise 4.01: Examining the Superstore Sales Data in an Excel File

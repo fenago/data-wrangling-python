@@ -1,5 +1,14 @@
-Getting Comfortable with Different Kinds of Data Sources
-===========================================================
+Lab 5: Getting Comfortable with Different Kinds of Data Sources
+===============================================================
+
+
+#### Pre-reqs:
+- Google Chrome (Recommended)
+
+#### Lab Environment
+Notebooks are ready to run. All packages have been installed. There is no requirement for any setup.
+
+All notebooks are present in `~/work/data-wrangling-python/lab05` folder.
 
 
 Exercise 5.01: Working with Headers When Reading Data from a CSV File

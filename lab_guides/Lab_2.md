@@ -1,5 +1,14 @@
-Advanced Operations on Built-In Data Structures
-==================================================
+Lab 2: Advanced Operations on Built-In Data Structures
+======================================================
+
+
+#### Pre-reqs:
+- Google Chrome (Recommended)
+
+#### Lab Environment
+Notebooks are ready to run. All packages have been installed. There is no requirement for any setup.
+
+All notebooks are present in `~/work/data-wrangling-python/lab02` folder.
 
 
 Advanced Data Structures
@@ -8,26 +17,8 @@ Advanced Data Structures
 Before we jump into constructing data structures, we\'ll look at a few
 methods to manipulate them.
 
-
 Iterator
 --------
-
-If you are familiar with a programming language such as C, C++, Java,
-JavaScript, or PHP, you may have noticed the difference between the
-`for` loop implementation in those languages, which consists
-of three distinct parts (the initiation, the increment, and the
-termination condition), and the `for` loop in Python. In
-Python, we do not use that kind of a `for` loop. What we use
-in Python is more like a `foreach` loop:
-
-```
-for i in list_1 
-```
-
-
-This is because, under the hood, the `for` loop is using an
-iterator, and thus we do not need to do all the extra steps. The
-iterator does them for us.
 
 Let\'s learn about the various functions we can use with
 `itertools`. As you execute each line of the code after the

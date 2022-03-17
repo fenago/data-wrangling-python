@@ -1,6 +1,14 @@
-Applications in Business Use Cases and Conclusion of the Course
-==================================================================
+Lab 9: Applications in Business Use Cases and Conclusion of the Course
+======================================================================
 
+
+#### Pre-reqs:
+- Google Chrome (Recommended)
+
+#### Lab Environment
+Notebooks are ready to run. All packages have been installed. There is no requirement for any setup.
+
+All notebooks are present in `~/work/data-wrangling-python/lab09` folder.
 
 
 Applying Your Knowledge to a Data Wrangling Task
@@ -9,7 +17,7 @@ Applying Your Knowledge to a Data Wrangling Task
 
 Suppose you are asked the following question:
 
-*In India, did the enrollment in primary/secondary/tertiary education
+*Did the enrollment in primary/secondary/tertiary education
 increase with the improvement of per capita GDP in the past 15 years? To
 provide an accurate and analyzed result, machine learning and data
 visualization techniques will be used by an expert data scientist*. The
@@ -31,10 +39,7 @@ with the required data and save it to the local drive as a SQL database
 file:
 
 
-
 ![](./images/B15780_09_01.jpg)
-
-
 
 
 You are encouraged to follow along with the code and results in the

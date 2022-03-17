@@ -1,6 +1,14 @@
-Advanced Web Scraping and Data Gathering
-========================================
+Lab 7: Advanced Web Scraping and Data Gathering
+===============================================
 
+
+#### Pre-reqs:
+- Google Chrome (Recommended)
+
+#### Lab Environment
+Notebooks are ready to run. All packages have been installed. There is no requirement for any setup.
+
+All notebooks are present in `~/work/data-wrangling-python/lab07` folder.
 
 
 Exercise 7.01: Using the Requests Library to Get a Response from the Wikipedia Home Page

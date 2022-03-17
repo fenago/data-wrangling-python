@@ -1,5 +1,14 @@
-RDBMS and SQL
-================
+Lab 8: RDBMS and SQL
+====================
+
+
+#### Pre-reqs:
+- Google Chrome (Recommended)
+
+#### Lab Environment
+Notebooks are ready to run. All packages have been installed. There is no requirement for any setup.
+
+All notebooks are present in `~/work/data-wrangling-python/lab08` folder.
 
 
 Exercise 8.01: Connecting to a Database in SQLite

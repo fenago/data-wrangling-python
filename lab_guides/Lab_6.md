@@ -1,6 +1,13 @@
-Learning the Hidden Secrets of Data Wrangling
-================================================
+Lab 6: Learning the Hidden Secrets of Data Wrangling
+====================================================
 
+#### Pre-reqs:
+- Google Chrome (Recommended)
+
+#### Lab Environment
+Notebooks are ready to run. All packages have been installed. There is no requirement for any setup.
+
+All notebooks are present in `~/work/data-wrangling-python/lab06` folder.
 
 
 Exercise 6.01: Generator Expressions
