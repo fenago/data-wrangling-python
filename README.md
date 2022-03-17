@@ -14,9 +14,3 @@ Data is the new oil, but it’s often in a crude form. To perform anything meani
 * Explore how to search and retrieve information with regular expressions 
 * Delve into commonly-used Python data science libraries  
 * Become well-versed with how to handle and compensate for missing data 
-
-## Related Workshops
-If you've found this repository useful, you might want to check out some of our other workshop titles:
-* [The Applied SQL Data Analytics Workshop](https://www.amazon.com/Applied-SQL-Data-Analytics-Workshop-ebook/dp/B085D91RNK/ref=sr_1_2?crid=1FDBQD0TEVVF9&dchild=1&keywords=applied%20sql%20data%20analytics%20workshop&qid=1610707878&sprefix=applied%20sql%20dat%2Caps%2C330&sr=8-2&utm_source=github&utm_medium=repository&utm_campaign=9781800203679&utm_term=Applied%20SQL%20Data%20Analytics&utm_content=The%20Applied%20SQL%20Data%20Analytics%20Workshop)
-* [The Data Analysis Workshop](https://www.amazon.com/Data-Analysis-Workshop-state-art-ebook/dp/B08Q8HXRQ4/ref=sr_1_1?dchild=1&keywords=The%20Data%20Analysis%20Workshop&qid=1610708839&sr=8-1&utm_source=github&utm_medium=repository&utm_campaign=9781839211386&utm_term=Data%20Analysis&utm_content=The%20Data%20Analysis%20Workshop)
-* [The Data Visualization Workshop](https://www.amazon.com/Data-Visualization-Workshop-transforming-captivating-ebook/dp/B08Q8FGCZ7/ref=sr_1_1?dchild=1&keywords=The%20Data%20Visualization%20Workshop&qid=1610977055&sr=8-1&utm_source=github&utm_medium=repository&utm_campaign=9781801073899&utm_term=Data%20Visualization&utm_content=The%20Data%20Visualization%20Workshop)
